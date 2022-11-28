@@ -126,7 +126,7 @@ for i in range(5):
 ```
 
 ## 7. 링크(links)
-[] 대괄호 안에 텍스트를 쓰고 () 소괄호 안에 링크를 써주면 텍스트에 하이퍼링크가 걸립니다.  
+[ ] 대괄호 안에 텍스트를 쓰고 ( ) 소괄호 안에 링크를 써주면 텍스트에 하이퍼링크가 걸립니다.  
 ```
 [Google](https://www.google.com)
 [Github](https://github.com)  
